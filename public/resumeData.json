@@ -1,0 +1,117 @@
+{
+    "main": {
+        "name": "derick ribeiro de sales",
+        "description": "densenvolvedor junior, full stack",
+        "image": "profilepic.jpg",
+        "bio": "minhas qualificações se extendem em amplas linguagens de programação como por exemplo: javascript, html, c#",
+        "contactmessage": "um mutante especializado na arte de programar <3",
+        "email": "derick.ribeiro.de.sales",
+        "phone": "(11)930346163",
+        "github": "https://github.com/",
+        "project": "https://github.com/",
+        "address": {
+            "street": "(Rua Teffé)",
+            "city": "(São Caetano)",
+            "state": "(São paulo)"
+        },
+        "website": "https://github.com/",
+        "resumedownload": "https://github.com/",
+        "social": [
+            {
+                "name": "facebook",
+                "url": "http://twitter.com",
+                "className": "Derick Sales"
+            },
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "instagram",
+                "url": "http://instagram.com/",
+                "className": "fa fa-instagram"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com/",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "resume": {
+        "skillmessage": "",
+        "education": [
+            {
+                "school": "USP",
+                "degree": "mestrado em graduação ciencias da computação",
+                "graduated": "April 2054",
+                "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+            }
+        ],
+        "work": [
+            {
+                "company": "vila da folha",
+                "title": "hokage",
+                "years": "December 2047 - Present",
+                "description": "manter a paz da vila"
+            },
+            {
+                "company": "britania",
+                "title": "imperador",
+                "years": "March 2020 - December 2038",
+                "description": "tirania contra todos  que se opuseram ao imperador de britania"
+            }
+        ],
+        "skills": [
+            {
+                "name": "Python",
+                "level": "60%"
+            },
+            {
+                "name": "C#",
+                "level": "100%"
+            },
+            {
+                "name": "Html",
+                "level": "80#"
+            },
+            {
+                "name": "CSS",
+                "level": "90%"
+            },
+            {
+                "name": "JAVA",
+                "level": "80%"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [
+            {
+                "title": "Charuto",
+                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
+                "image": "project1.jpeg",
+                "url": "https://www.google.com"
+            },
+            {
+                "title": "kakashi",
+                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
+                "image": "project2.jpeg",
+                "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+            },
+            {
+                "title": "zero two",
+                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
+                "image": "project3.jpeg",
+                "url": "http://www.timbakerdev.com"
+            },
+            {
+                "title": "lelouch",
+                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
+                "image": "project4.jpeg",
+                "url": "http://www.smirkspace.com"
+            }
+        ]
+    }
+}
